@@ -24,7 +24,7 @@ const Drawer = ({ children, isOpen, setIsOpen }) => {
             <div className="flex flex-shrink-0 items-center border-right">
               <Image src="/images/Logo/Logo.svg" alt="logo" width={36} height={36} />
               <Link href="/" className="text-2xl font-semibold text-black ml-4">
-                Chef&apos;s Kitchen.
+                Yuri&apos;s Kitchen.
               </Link>
             </div>
             <XMarkIcon
