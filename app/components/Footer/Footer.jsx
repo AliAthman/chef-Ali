@@ -101,7 +101,7 @@ export default function Footer(){
       <div className="py-10 md:flex items-center justify-between border-t border-t-bordertop">
         <h4 className="text-darkgrey text-sm text-center md:text-start font-normal">
           @2024 - Yuri&apos;s kitchen. All Rights Reserved by{" "}
-          <Link href="/" target="_blank">
+          <Link href="https://github.com/AliAthman" target="_blank">
             aliathman.com
           </Link>
         </h4>

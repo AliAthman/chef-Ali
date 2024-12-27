@@ -39,7 +39,7 @@ const Navbar = () => {
                   href="/"
                   className="text-2xl font-semibold text-black ml-4"
                 >
-                  Chef&apos;s Kitchen.
+                  Yuri&apos;s Kitchen.
                 </Link>
               </div>
               <div className="hidden sm:flex flex-shrink-0 items-center border-right">
